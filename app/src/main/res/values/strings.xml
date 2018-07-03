@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CanadaTravel</string>
+    <string name="txt_no_internet">No Internet Connection, Check again!</string>
+    <string name="txt_problem">Please try again after some time!</string>
+</resources>
